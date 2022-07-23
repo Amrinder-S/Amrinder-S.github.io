@@ -1,7 +1,3 @@
-layout: page
-title: "How to locally host VSCode Live Server"
-permalink: amrinder-s.github.io/
-
 # How to view Live Changes to your webpages on local network
 
 ## Install and configure VSCode Live Server
