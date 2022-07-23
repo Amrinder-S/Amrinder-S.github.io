@@ -13,7 +13,7 @@ I am a Lua Developer, currently learning C. I'am familiar with windows Linux and
 
 - [To fix Ctrl + Backspace in certain applications (beta)](https://github.com/Amrinder-S/Fix-Ctrl-Backspace)
 
-- [Tutorial about hosting your Live Server with VSCode Live Server](https://amrinder-s.github.io/VLS)
+- [Tutorial about hosting your Live Server with VSCode Live Server](https://amrinder-s.github.io/vscode-live-server)
 
 ### Some educational links
 
@@ -24,4 +24,4 @@ I am a Lua Developer, currently learning C. I'am familiar with windows Linux and
 - [Learn HTML](https://html.com/)
 
 ## Logs
-- 07/24/2022 - Updated Tutorial about hosting [Live Server with VSCode.](https://amrinder-s.github.io/VLS)
+- 07/24/2022 - Updated Tutorial about hosting [Live Server with VSCode.](https://amrinder-s.github.io/vscode-live-server)
