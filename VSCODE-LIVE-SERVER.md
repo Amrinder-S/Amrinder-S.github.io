@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE TITLE"
+permalink: amrinder-s.github.io/
+
 # How to view Live Changes to your webpages on local network
 
 ## Install and configure VSCode Live Server
