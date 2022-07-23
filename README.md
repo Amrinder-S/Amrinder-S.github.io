@@ -23,5 +23,5 @@ I am a Lua Developer, currently learning C. I'am familiar with windows Linux and
 
 - [Learn HTML](https://html.com/)
 
-## Logs
-- 07/24/2022 - Updated Tutorial about hosting [Live Server with VSCode.](https://amrinder-s.github.io/vls/vscode-live-server)
+## Logs (in DD/MM/YYYY)
+- 24/07/2022 - Updated Tutorial about hosting [Live Server with VSCode.](https://amrinder-s.github.io/vls/vscode-live-server)
