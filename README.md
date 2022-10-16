@@ -11,9 +11,11 @@ I am a Lua Developer, currently learning C. I'am familiar with windows Linux and
 
 - [IP Logger to keep track of your Past IPs](https://github.com/Amrinder-S/iplogger.bat)
 
-- [To fix Ctrl + Backspace in certain applications (beta)](https://github.com/Amrinder-S/Fix-Ctrl-Backspace)
+- [To fix Ctrl + Backspace in certain applications](https://github.com/Amrinder-S/Fix-Ctrl-Backspace)
 
 - [Tutorial about hosting your Live Server with VSCode Live Server](https://amrinder-s.github.io/vls/vscode-live-server)
+
+- [Miktex installation batch file](https://github.com/Amrinder-S/miktex)
 
 ### Some educational links
 
@@ -25,3 +27,7 @@ I am a Lua Developer, currently learning C. I'am familiar with windows Linux and
 
 ## Logs (in DD/MM/YYYY)
 - 24/07/2022 - Updated Tutorial about hosting [Live Server with VSCode.](https://amrinder-s.github.io/vls/vscode-live-server)
+
+- 08/10/2022 - Updated Fix-Ctrl-Backspace script. No longer Beta
+
+- 13/10/2022 - Created a Batch file to install MikTex in single click
